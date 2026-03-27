@@ -1,0 +1,7 @@
+id = "palenight-theme"
+name = "Palenight"
+version = "0.1.0"
+schema_version = 1
+authors = ["hypn4"]
+description = "An elegant and juicy material-inspired theme for Zed, ported from VSCode Palenight"
+repository = "https://github.com/hypn4/zed-palenight-theme"
